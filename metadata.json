@@ -1,0 +1,6 @@
+{
+  "name": "여정축제 — 축제 포토 큐레이션 & 일정 플래너",
+  "description": "계절별 대한민국 대표 축제의 생생한 현장 사진과 공간 시각화, 시간대별 일정·예산·준비물을 한눈에 계획하는 축제 플래너",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
