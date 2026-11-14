@@ -1,7 +1,7 @@
 import { GeoFestival, GeoQuizQuestion } from '../types/festival';
 
 export const HERO_GEO_FESTIVAL_IMAGE =
-  '/assets/images/hero_world_festival_lanterns_1794616331421.jpg';
+  '/assets/aistudio/hero_world_festival_lanterns_1794616331421.jpg';
 
 export const GEO_FESTIVALS: GeoFestival[] = [
   // =========================================================
@@ -22,7 +22,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '6월 하지 무렵 (6.19 — 6.25)',
     festivalMonth: 6,
     daylightHoursAtFestival: '약 19시간 (백야)',
-    imageUrl: '/assets/images/geo_sweden_midsommar_1794616690350.jpg',
+    imageUrl: '/assets/aistudio/geo_sweden_midsommar_1794616690350.jpg',
     imageAlt:
       '스웨덴 달라르나 초원에서 꽃으로 장식한 기둥 주위를 화관을 쓴 주민들이 손잡고 춤추는 하지 축제 사진',
     photoCaption: '밤 9시가 넘어도 환한 고위도 백야의 햇살 아래 메이폴(Midsommarstång)을 돌며 춤추는 모습',
@@ -82,7 +82,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '4월 중순 (4.13 — 4.15)',
     festivalMonth: 4,
     daylightHoursAtFestival: '약 12.5시간',
-    imageUrl: '/assets/images/geo_thailand_songkran_1794616691559.jpg',
+    imageUrl: '/assets/aistudio/geo_thailand_songkran_1794616691559.jpg',
     imageAlt:
       '태국 치앙마이 사원 앞 햇살 아래 사람들이 시원한 물을 서로 뿌리며 즐기는 송끄란 물축제 사진',
     photoCaption: '4월 한낮 36℃를 넘나드는 건기 막바지 열기 속에서 서로에게 시원한 물을 뿌리며 축복하는 모습',
@@ -142,7 +142,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '매년 2월 초 (02.04 — 02.11)',
     festivalMonth: 2,
     daylightHoursAtFestival: '약 10시간',
-    imageUrl: '/assets/images/world_sapporo_snow_1794616329913.jpg',
+    imageUrl: '/assets/aistudio/world_sapporo_snow_1794616329913.jpg',
     imageAlt:
       '눈이 내리는 일본 삿포로 오도리 공원에서 거대한 궁전 모양의 눈 조각과 두꺼운 외투를 입은 사람들 사진',
     photoCaption: '겨울 계절풍이 동해 수증기를 머금고 내린 막대한 눈으로 빚은 오도리 공원 대설상',
@@ -202,7 +202,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '1월 초 — 2월 말',
     festivalMonth: 1,
     daylightHoursAtFestival: '약 9시간',
-    imageUrl: '/assets/images/geo_harbin_ice_1794616692404.jpg',
+    imageUrl: '/assets/aistudio/geo_harbin_ice_1794616692404.jpg',
     imageAlt:
       '중국 하얼빈의 겨울 밤 푸른빛과 금빛 조명이 빛나는 투명한 얼음 성곽과 탑을 구경하는 사람들 사진',
     photoCaption: '영하 20℃ 이하로 떨어지는 냉대 기후 덕분에 녹지 않는 투명 얼음 궁전',
@@ -262,7 +262,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '매년 2월 말 — 3월 초',
     festivalMonth: 2,
     daylightHoursAtFestival: '약 11시간',
-    imageUrl: '/assets/images/geo_menton_lemon_1794616691155.jpg',
+    imageUrl: '/assets/aistudio/geo_menton_lemon_1794616691155.jpg',
     imageAlt:
       '프랑스 망통 해안 정원에서 수많은 노란 레몬과 오렌지로 만든 아치형 조형물과 야자수가 어우러진 축제 사진',
     photoCaption: '겨울에도 따뜻한 지중해 연안의 햇살 아래 수십 톤의 레몬·오렌지로 세운 조각 작품',
@@ -322,7 +322,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '매년 8월 마지막 수요일',
     festivalMonth: 8,
     daylightHoursAtFestival: '약 13.5시간',
-    imageUrl: '/assets/images/world_tomatina_spain_1794616332860.jpg',
+    imageUrl: '/assets/aistudio/world_tomatina_spain_1794616332860.jpg',
     imageAlt:
       '스페인 부뇰의 하얀 마을 골목에서 여름 햇살 아래 붉은 토마토를 던지며 웃는 사람들 사진',
     photoCaption: '고온 건조한 8월 지중해 여름 햇살 아래 부뇰 마을 거리를 붉게 물들인 지역 농산물 토마토',
@@ -382,7 +382,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '9월 중순 — 10월 초 (수확기)',
     festivalMonth: 9,
     daylightHoursAtFestival: '약 12시간',
-    imageUrl: '/assets/images/world_oktoberfest_munich_1794616333255.jpg',
+    imageUrl: '/assets/aistudio/world_oktoberfest_munich_1794616333255.jpg',
     imageAlt:
       '독일 뮌헨 테레지엔비제 광장의 바이에른 전통 목조 맥주 텐트와 대관람차가 보이는 옥토버페스트 사진',
     photoCaption: '맥주의 원료인 홉(Hop) 덩굴 장식과 바이에른 전통 목조 홀이 어우러진 가을 수확 축제',
@@ -506,7 +506,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '사순절 전날까지 5일간 (2월 중)',
     festivalMonth: 2,
     daylightHoursAtFestival: '약 13시간',
-    imageUrl: '/assets/images/world_rio_carnival_1794616331148.jpg',
+    imageUrl: '/assets/aistudio/world_rio_carnival_1794616331148.jpg',
     imageAlt:
       '브라질 리우 삼바드로무 경기장에서 화려한 금빛 깃털 의상을 입은 댄서들과 대형 퍼레이드카가 행진하는 사진',
     photoCaption: '리우 지역 200여 개 삼바 학교가 1년간 준비해 경연하는 삼바드로무 메인 퍼레이드',
@@ -566,7 +566,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '힌두력 8월 초승달 밤 (10월 말 — 11월 초)',
     festivalMonth: 10,
     daylightHoursAtFestival: '약 11.5시간',
-    imageUrl: '/assets/images/geo_india_diwali_1794616693358.jpg',
+    imageUrl: '/assets/aistudio/geo_india_diwali_1794616693358.jpg',
     imageAlt:
       '인도 강변 사암 계단(가트)과 힌두 사원 주변을 수천 개의 작은 흙 등불(디야)이 밝히고 있는 디왈리 축제 사진',
     photoCaption: '어둠을 물리치는 빛의 승리를 상징하며 강변 가트를 가득 채운 전통 등불 디야(Diya)',
@@ -626,7 +626,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '매년 7월 11일 — 13일',
     festivalMonth: 7,
     daylightHoursAtFestival: '약 15.5시간',
-    imageUrl: '/assets/images/geo_mongolia_naadam_1794616693479.jpg',
+    imageUrl: '/assets/aistudio/geo_mongolia_naadam_1794616693479.jpg',
     imageAlt:
       '몽골의 푸른 초원 위를 전통 의상 델을 입은 유목민 기수들이 말을 타고 달리는 나담 축제 사진',
     photoCaption: '유목민의 이동식 가옥 게르(Ger)와 드넓은 스텝 초원을 배경으로 펼쳐지는 전통 말타기 경주',
@@ -746,7 +746,7 @@ export const GEO_FESTIVALS: GeoFestival[] = [
     seasonTiming: '매년 8월 한 달간',
     festivalMonth: 8,
     daylightHoursAtFestival: '약 15시간',
-    imageUrl: '/assets/images/geo_edinburgh_festival_1794616694957.jpg',
+    imageUrl: '/assets/aistudio/geo_edinburgh_festival_1794616694957.jpg',
     imageAlt:
       '영국 스코틀랜드 에든버러 성 바위산 아래 프린시스 스트리트 가든에서 야외 오케스트라 공연이 열리는 사진',
     photoCaption: '중세 에든버러 성과 근대 조지안 건축이 공존하는 도시 전체가 무대가 되는 공연예술 축제',
